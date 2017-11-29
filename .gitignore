@@ -26,3 +26,4 @@ variables-with-initializers
 short-variable-declarations
 basic-types
 zero
+type-conversions

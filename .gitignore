@@ -43,3 +43,4 @@ defer
 defer-multi
 pointer
 structs
+struct-fields

@@ -54,3 +54,4 @@ slice-len-cap
 nil-slices
 making-slices
 slices-of-slice
+append

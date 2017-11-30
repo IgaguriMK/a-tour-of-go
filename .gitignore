@@ -46,3 +46,5 @@ structs
 struct-fields
 struct-literals
 array
+slices
+slices-pointers

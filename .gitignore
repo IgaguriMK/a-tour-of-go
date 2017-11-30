@@ -48,3 +48,4 @@ struct-literals
 array
 slices
 slices-pointers
+slice-literals

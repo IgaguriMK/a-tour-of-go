@@ -49,3 +49,4 @@ array
 slices
 slices-pointers
 slice-literals
+slice-defaults

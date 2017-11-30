@@ -50,3 +50,4 @@ slices
 slices-pointers
 slice-literals
 slice-defaults
+slice-len-cap

@@ -79,3 +79,4 @@ interfaces-are-satisfied-implicitly
 interface-values
 interface-values-with-nil
 nil-interface-values
+empty-interface.go

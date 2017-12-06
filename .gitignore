@@ -94,3 +94,4 @@ basic/more_types/exercise-slices.go
 exercise-images
 goroutines
 channels
+buffered-channels

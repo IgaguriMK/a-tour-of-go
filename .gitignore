@@ -90,3 +90,5 @@ reader
 exercise-reader
 exercise-rot-reader
 images
+basic/more_types/exercise-slices.go
+exercise-images

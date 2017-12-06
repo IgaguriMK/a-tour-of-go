@@ -83,3 +83,4 @@ empty-interface.go
 type-assertions
 type-switchs
 stringer
+exercise-stringer

@@ -77,3 +77,4 @@ methods-with-pointer-receiver
 interfaces
 interfaces-are-satisfied-implicitly
 interface-values
+interface-values-with-nil

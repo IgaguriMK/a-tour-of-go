@@ -95,3 +95,4 @@ exercise-images
 goroutines
 channels
 buffered-channels
+range-and-close

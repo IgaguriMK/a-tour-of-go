@@ -75,3 +75,4 @@ indirection
 indirection-values
 methods-with-pointer-receiver
 interfaces
+interfaces-are-satisfied-implicitly
